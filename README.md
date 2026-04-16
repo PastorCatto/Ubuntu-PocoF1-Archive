@@ -1,4 +1,9 @@
 # Ubuntu-for-Poco-F1
+# Update 4/16/2026: This repo has entered Archive Status, as its current intention is to see where i started from -> to where we are now.
+# Thanks for coming to check out the Archive! 
+# Don't give up on something so easily, you may never know what you will end up with! 
+# Signed, PastorCatto, Lead Developer of Mobuntu!
+
 So.... i got bored, asked ai to help me with a dumb idea i had, and now we're here.	
 
 currently testing hijacking the pmOS boot image with it finding and loading custom kernels and rootFS, and should it boot, we have a ubuntu rootfs!
@@ -14,3 +19,4 @@ EDIT: IT BOOTS! NEW REPO UP! CHECK MY PROFILE
 
 UPDATE: FIND MY OTHER REPO FOR THE SETUP AND GUIDE, THIS WAS USE PURELY FOR MYSELF FOR ARCHIVAL PURPOSES
 THIS WILL REMAIN AS HOW THE PROJECT HAS EVOLVED, AND MAYBE FOR SOMEONE TO GET UEFI WORKING!
+
